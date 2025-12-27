@@ -1,0 +1,1 @@
+console.log("Wixpay project is live!");
